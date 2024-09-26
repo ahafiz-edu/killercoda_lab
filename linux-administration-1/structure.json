@@ -1,7 +1,7 @@
 {
   "items": [
-    { "path": "scenario2" },
-    { "path": "course1", "title": "Override title of course ONE" },
+    { "path": "01-managing-software" },
+    { "path": "04-managing-users" },
     { "path": "course2" }
   ]
 }
